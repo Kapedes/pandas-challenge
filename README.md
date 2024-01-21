@@ -1,3 +1,7 @@
 # pandas-challenge
 
-Aggregating and calulcating a list of measures
+PyCitySchools folder contains:
+
+ - PyCitySchools_starter (Jupyter notebook)
+ - Written report in text and word
+
